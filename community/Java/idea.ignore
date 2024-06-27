@@ -1,0 +1,53 @@
+# IntelliJ IDEA files
+.idea/
+
+# Compiled class file
+target/
+bin/
+
+# Logs
+*.log
+log/
+logs/
+
+# Bytecode
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Dependency directories
+dependency/
+lib/
+build/
+
+# IDE specific files
+*.iml
+*.ipr
+*.iws
+*.swp
+*.idea/
+*.classpath
+*.project
+/.settings/
+
+# Spring Boot-specific files
+/target
+!.mvn/wrapper/maven-wrapper.jar
+
+# Maven wrapper files
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+
+# Gradle files
+.gradle/
+
+# Compiled Gradle plugins and dependencies
+
+# Caches and logs
+gradle/
